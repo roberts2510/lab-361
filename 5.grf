@@ -1,0 +1,42 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.2.543
+MinVersion = 2.5
+OS = Windows NT 6.2 
+
+[Axes]
+xMin = -0.455336801469861
+xMax = 15.2030173321018
+xTickUnit = 0.5
+xGridUnit = 0.5
+xLabel = v, кГц
+yMin = -1.09035169752446
+yMax = 22.1109367163763
+yTickUnit = 2
+yGridUnit = 2
+yLabel = U, мВ
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[PointSeries1]
+FillColor = clRed
+LineColor = clBlue
+Size = 4
+Style = 0
+Font = Tahoma,14,clBlack
+LabelPosition = 1
+PointCount = 15
+Points = 0,20.6;0.997,2.89;1.995,2.77;3.015,2.52;3.994,2.46;5,2.3;6,2.27;7,2.2;7.99,2.1;9,2.0;10.01,1.7;11,1.6;12,1.4;13,1.17;14,0.92;
+LegendText = Ряд 1
+
+[Data]
+TextLabelCount = 0
+FuncCount = 0
+PointSeriesCount = 1
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+
